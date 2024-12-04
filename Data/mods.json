@@ -1,0 +1,37 @@
+{
+  "Upstream": {
+    "Source": "https://api.modrinth.com/v2/project/",
+    "Refresh": false,
+    "List": [
+      "Create",
+      "create Fabric",
+      "Create Big Cannons",
+      "Create Clockwork",
+      "Create Utilities",
+      "Create Steam n Rails",
+      "Jade",
+      "JEI",
+      "Just Enough Resources JER",
+      "Just Enough Guns",
+      "Xaeros Minimap",
+      "ItemPhysic",
+      "Mouse Tweaks",
+      "EntityCulling"
+    ]
+  },
+  "Scan": [
+    "Create/Create Fabric",
+    "Create Big Cannons",
+    "Create Clockwork",
+    "Create Utilities",
+    "Create Steam n Rails",
+    "Jade",
+    "JEI",
+    "Just Enough Resources JER",
+    "Just Enough Guns",
+    "Xaeros Minimap",
+    "ItemPhysic",
+    "Mouse Tweaks",
+    "EntityCulling"
+  ]
+}
